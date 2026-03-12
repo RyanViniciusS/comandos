@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "docker"
             }
+          },
+          {
+            "id": "9ec0cc51afce13ea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-12 16.21.52.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,12 +194,15 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f008908609df6dd3",
+  "active": "9ec0cc51afce13ea",
   "lastOpenFiles": [
     "docker/docker.md",
+    "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md",
+    "Excalidraw",
     "docker/TESTE FINAL.md",
     "docker/Teste.md",
     "docker/teste 1.md"

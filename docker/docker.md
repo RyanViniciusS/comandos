@@ -13,4 +13,7 @@ docker ps -a
 docker stop CONTAINER_ID
 ```
 
-
+#### Formatar os nomes
+```bash
+docker ps --format "{{.Names}}\t{{.Image}}"
+```

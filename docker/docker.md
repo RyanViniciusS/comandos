@@ -12,5 +12,5 @@ docker ps -a
 ```bash
 docker stop CONTAINER_ID
 ```
-##ryan
+
 

@@ -33,8 +33,7 @@
               "title": "Drawing 2026-03-12 16.21.52.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +197,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9ec0cc51afce13ea",
+  "active": "f008908609df6dd3",
   "lastOpenFiles": [
-    "docker/docker.md",
     "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md",
+    "docker/docker.md",
     "Excalidraw",
     "docker/TESTE FINAL.md",
     "docker/Teste.md",

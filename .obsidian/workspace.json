@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker.md",
+                "file": "vscode/atalhos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
-            }
-          },
-          {
-            "id": "9ec0cc51afce13ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "title": "atalhos"
             }
           }
         ]
@@ -199,8 +187,10 @@
   },
   "active": "f008908609df6dd3",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md",
     "docker/docker.md",
+    "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md",
+    "vscode/atalhos.md",
+    "vscode",
     "Excalidraw",
     "docker/TESTE FINAL.md",
     "docker/Teste.md",

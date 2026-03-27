@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2f37e22e13c4f53c",
+        "id": "aa157190ed4b14a7",
         "type": "tabs",
         "children": [
           {
-            "id": "f008908609df6dd3",
+            "id": "45ea170b99c70205",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vscode/atalhos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "atalhos"
-            }
-          },
-          {
-            "id": "1e5b407c1505f572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/SELECT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SELECT"
-            }
-          },
-          {
-            "id": "f6fac746561dc682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SupaBase/Sem título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título"
-            }
-          },
-          {
-            "id": "9089df9497900cab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bailyes/Eventos/Eventos de Mensagem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eventos de Mensagem"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,12 +181,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9089df9497900cab",
+  "active": "a1547597750725f5",
   "lastOpenFiles": [
+    "Bailyes/Eventos/Eventos de Mensagem.md",
     "Pasted image 20260327164816.png",
     "Bailyes/Eventos",
     "SupaBase/Sem título.md",
-    "Bailyes/Eventos/Eventos de Mensagem.md",
     "Bailyes",
     "SQL/SELECT.md",
     "SupaBase",

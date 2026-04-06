@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "515415ad20cc56f6",
+        "id": "96262d6a85c5a897",
         "type": "tabs",
         "children": [
           {
-            "id": "bc16c88cdcb38e47",
+            "id": "7cc0eea005ec39b7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -176,7 +169,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a9924060df358c37",
+  "active": "7cc0eea005ec39b7",
   "lastOpenFiles": [
     "Sem título.canvas",
     "Adapter.md",

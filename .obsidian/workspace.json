@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13585070eec0d09b",
+        "id": "515415ad20cc56f6",
         "type": "tabs",
         "children": [
           {
-            "id": "dc29fb4e8af16722",
+            "id": "bc16c88cdcb38e47",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md"
+                "file": "Adapter.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-12 16.21.52.excalidraw"
+              "icon": "lucide-file",
+              "title": "Adapter"
             }
           }
         ]
@@ -32,19 +34,6 @@
         "id": "e356b9a33160b4a8",
         "type": "tabs",
         "children": [
-          {
-            "id": "a1547597750725f5",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
-            }
-          },
           {
             "id": "3f91ab02a19a82f3",
             "type": "leaf",
@@ -183,8 +172,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dc29fb4e8af16722",
+  "active": "bc16c88cdcb38e47",
   "lastOpenFiles": [
+    "Adapter.md",
     "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md",
     "Excalidraw/Drawing 2026-04-06 15.12.13.excalidraw.md",
     "RSCRM.md",

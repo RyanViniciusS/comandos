@@ -11,12 +11,14 @@
             "id": "20629b3224949218",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md"
+                "file": "SupaBase/Sem título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-12 16.21.52.excalidraw"
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ]
@@ -184,7 +186,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb92fdbd7cd03a32",
+  "active": "20629b3224949218",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md",
     "SupaBase/Sem título.md",

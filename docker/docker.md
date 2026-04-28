@@ -17,3 +17,13 @@ docker stop CONTAINER_ID
 ```bash
 docker ps --format "{{.Names}}\t{{.Image}}"
 ```
+
+#### Fazer o build
+```bash
+docker build -t desenvolvimentorscrm/rscrm_evo:1.0.12 .
+```
+
+#### Publicar no dockerhub
+```bash
+docker push desenvolvimentorscrm/rscrm_evo:1.0.12
+```

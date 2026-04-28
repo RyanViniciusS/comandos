@@ -11,26 +11,22 @@
             "id": "20629b3224949218",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "terminal/Portas/Listar as portas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Listar as portas"
+              "title": "Nova aba"
             }
           },
           {
-            "id": "092065b74f20cf65",
+            "id": "61af1fd5f502fb95",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-04-28 10.11.49.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-12 16.21.52.excalidraw"
+              "title": "Drawing 2026-04-28 10.11.49.excalidraw"
             }
           }
         ],
@@ -199,11 +195,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "092065b74f20cf65",
+  "active": "61af1fd5f502fb95",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw 1.md",
+    "Excalidraw/Drawing 2026-04-28 10.11.49.excalidraw.md",
+    "terminal/Portas/Listar as portas.md",
     "golang/Sem título.md",
     "SupaBase/Sem título.md",
-    "terminal/Portas/Listar as portas.md",
     "golang",
     "Sem título.canvas",
     "Adapter.md",
@@ -212,7 +211,6 @@
     "Pasted image 20260406152211.png",
     "Pasted image 20260406152236.png",
     "Pasted image 20260406152259.png",
-    "Excalidraw/Drawing 2026-03-12 16.21.52.excalidraw.md",
     "Excalidraw/Drawing 2026-04-06 15.12.13.excalidraw.md",
     "RSCRM.md",
     "terminal/Portas",
